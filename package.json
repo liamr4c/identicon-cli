@@ -1,0 +1,19 @@
+{
+  "name": "indenticon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "command-line-args": "^4.0.2",
+    "del": "^2.2.2",
+    "jdenticon": "^1.4.0",
+    "mkdirp": "^0.5.1",
+    "slugify": "^1.1.0",
+    "svg2png": "^4.1.1"
+  }
+}
